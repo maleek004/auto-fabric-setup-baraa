@@ -1,5 +1,7 @@
 # 🚀 Fabric End-to-End Project Automation
 
+![Project Architecture](./architecture_baraa.png)
+
 This repo holds resource for automating the entire process of replicating [Data with Baraa’s](https://www.youtube.com/@DataWithBaraa) end-to-end data engineering project in **Microsoft Fabric** — from raw data ingestion all the way to report creation — in under **5 minutes**.
 
 ---
@@ -40,7 +42,8 @@ In a few minutes, you’ll have:
 This automation was inspired by:
 
 - [Greg Beaumont](https://www.linkedin.com/in/gregbeaumont/) and [Inderjit Rana](https://www.linkedin.com/in/singhinderjit/)’s [Healthcare Fabric Automation](https://github.com/isinghrana/fabric-samples-healthcare/tree/main/analytics-bi-directlake-starschema) project  
-- Data with Baraa’s original [end-to-end Data warehouse project](https://www.youtube.com/watch?v=9GVqKuTVANE&t=13229s)  
+- Data with Baraa’s original [end-to-end Data warehouse project](https://www.youtube.com/watch?v=9GVqKuTVANE&t=13229s)
+- To follow along on how i built it on fabric, read this [blog post](https://www.linkedin.com/pulse/eating-data-breakfast-designing-building-warehouse-abdulmaleek--jjn0f/?trackingId=fIvDAq2jTz%2B%2BHYvcu%2BZ5ww%3D%3D)
 
 ---
 
