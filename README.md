@@ -43,7 +43,7 @@ This automation was inspired by:
 
 - [Greg Beaumont](https://www.linkedin.com/in/gregbeaumont/) and [Inderjit Rana](https://www.linkedin.com/in/singhinderjit/)’s [Healthcare Fabric Automation](https://github.com/isinghrana/fabric-samples-healthcare/tree/main/analytics-bi-directlake-starschema) project  
 - Data with Baraa’s original [end-to-end Data warehouse project](https://www.youtube.com/watch?v=9GVqKuTVANE&t=13229s)
-- To follow along on how i built it on fabric, read this [blog post](https://www.linkedin.com/pulse/eating-data-breakfast-designing-building-warehouse-abdulmaleek--jjn0f/?trackingId=fIvDAq2jTz%2B%2BHYvcu%2BZ5ww%3D%3D)
+- Read my [linkedin post](https://www.linkedin.com/posts/mubaraq-abdulmaleek_microsoftfabric-dataengineering-eatingdataforbreakfast-activity-7392962163134316544-wqtM?utm_source=share&utm_medium=member_desktop&rcm=ACoAACEswjQB281zfbDn8oJquscWI5z8RfFblEg) about it
 
 ---
 
