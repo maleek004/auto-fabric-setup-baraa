@@ -17,6 +17,7 @@ When you run the [automation notebook](./Automation_Notebook.ipynb), it automati
 - Builds a **star schema model** using T-SQL  
 - Creates a **Direct Lake semantic model**  
 - And generates a **report** connected to that model  
+![The Dashboard](dashboard_image.png)
 
 All without manual setup.
 
